@@ -4,7 +4,7 @@
 létre.
 A bmp fájl egy véletlenszerűen változó mennyiség időbeli változását
 szemléltető grafikont ábrázol.</p>
-A program kétféle üzemmódban képes működni:
+A program kétféle üzemmódban képes működni:<br/>
 -Küldő: előállítja az adatokat
 -Fogadó: ábrázolja az adatokat
 
