@@ -1,7 +1,7 @@
 # Rendszerközeli programozás
 ## Feladat
 C nyelven megírni egy programot, amely egy 1 bit színmélységű bmp fájlt hoz
-létre.
+létre.\n
 A bmp fájl egy véletlenszerűen változó mennyiség időbeli változását
 szemléltető grafikont ábrázol.
 A program kétféle üzemmódban képes működni:
