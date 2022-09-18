@@ -6,7 +6,7 @@ A bmp fájl egy véletlenszerűen változó mennyiség időbeli változását
 szemléltető grafikont ábrázol.</p>
 A program kétféle üzemmódban képes működni:<br>
 -Küldő: előállítja az adatokat<br>
--Fogadó: ábrázolja az adatokat<br><br>
+-Fogadó: ábrázolja az adatokat<br>
 
 <p>Egyetlen program, de két folyamat. Folyamatok közötti kommunikáció
 megvalósítása, vagy fájlkezeléssel vagy socket (hálózaton) keresztül.
