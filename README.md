@@ -2,10 +2,8 @@
 ## Feladat
 C nyelven megírni egy programot, amely egy 1 bit színmélységű bmp fájlt hoz
 létre.
-
 A bmp fájl egy véletlenszerűen változó mennyiség időbeli változását
 szemléltető grafikont ábrázol.
-
 A program kétféle üzemmódban képes működni:
 -Küldő: előállítja az adatokat
 -Fogadó: ábrázolja az adatokat
